@@ -1,0 +1,9 @@
+"","C. cyanellus","C. Glaphyrocanthon","C. juvencus","C. septemmaculatus","C. subhyalinus","Dichotomius","Eurysternus","Ontherus"
+"C. cyanellus",28,1,0,0,0,0,0,0
+"C. Glaphyrocanthon",0,30,0,0,0,0,0,0
+"C. juvencus",0,1,29,0,0,0,0,0
+"C. septemmaculatus",0,0,0,30,0,0,0,0
+"C. subhyalinus",0,0,0,0,30,0,0,0
+"Dichotomius",0,0,0,0,0,30,0,0
+"Eurysternus",0,0,0,0,0,0,30,0
+"Ontherus",0,0,0,0,0,0,0,30
